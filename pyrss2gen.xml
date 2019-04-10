@@ -1,2 +1,13 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Andrew's PyRSS2Gen feed</title><link>https://github.com/SixGodZhang</link><description>The latest news about PyRSS2Gen, Python library for generating RSS2 feeds</description><lastBuildDate>Wed, 10 Apr 2019 20:34:17 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>PyRSS2Gen-0.0 released</title><link>https://github.com/SixGodZhang/Materials/blob/master/C%23%E4%B8%AD%E5%90%8C%E6%AD%A5%E5%92%8C%E5%BC%82%E6%AD%A5%E3%80%81%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%B9%B6%E5%8F%91.md</link><description>测试条目2</description><guid isPermaLink="true">https://github.com/SixGodZhang/Materials/blob/master/C%23%E4%B8%AD%E5%90%8C%E6%AD%A5%E5%92%8C%E5%BC%82%E6%AD%A5%E3%80%81%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%B9%B6%E5%8F%91.md</guid><pubDate>Wed, 10 Apr 2019 20:34:17 GMT</pubDate></item><item><title>Thoughts on RSS feeds for bioinformatics</title><link>http://www.dalkescientific.com/writings/diary/archive/2003/09/06/RSS.html</link><description>测试条目1</description><guid isPermaLink="true">http://www.dalkescientific.com/writings/diary/archive/2003/09/06/RSS.html</guid><pubDate>Wed, 10 Apr 2019 20:34:17 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>这里是文章标题</title>
+      <link>https://sixgodzhang.github.io/article/miscellaneous/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/</link>
+      <description>测试条目1</description>
+      <guid isPermaLink="true">https://sixgodzhang.github.io/article/miscellaneous/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/</guid>
+      <pubDate>2019-4-10 19:00:00</pubDate>
+    </item>
+ </channel>
+</rss>
